@@ -1,4 +1,4 @@
-# Island Workshop Search Fork
+# [IslandWorkshopSearch Fork](https://api.github.com/repos/Ai-Vonie/IslandWorkshopSearchFork/releases)
 FFXIV Island Sanctuary Workshop Search Plugin
 
 This is a fork of the original plugin by [@img02](https://github.com/img02/IslandWorkshopSearch)
